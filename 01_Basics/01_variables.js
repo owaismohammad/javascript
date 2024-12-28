@@ -7,7 +7,7 @@ accountCity = "Lucknow"
 
 let accountState;
 
-// accountId = 2; error***
+// accountId = 2; error**
 
 accountEmail = "hc@hc.com"
 accountPassword = "212121";
