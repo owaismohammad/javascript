@@ -24,7 +24,7 @@ console.log(loginUserMessage("owo"))
 //     console.log(this)
 // }
 
-const chai = function(){
-    console.log(this)
-}
+// const chai = function(){
+//     console.log(this)
+// }
 chai();
